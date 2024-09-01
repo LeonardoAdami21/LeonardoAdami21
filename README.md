@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **leonardorossato21@gmail.com**
 
-- 📄 Know about my experiences [Back End DeveloperBack End Developer Sumé Tecnologia · AutônomoSumé Tecnologia · Autônomo fev de 2024 - jul de 2024 · 6 mesesDe fev de 2024 até jul de 2024 · 6 meses Florianópolis, Santa Catarina, Brasil · RemotaFlorianópolis, Santa Catarina, Brasil · Remota me ajudou a conseguir esse empregoO LinkedIn me ajudou a conseguir esse emprego Documentação de Casos de Testes; Implementação de melhorias nas Apis; Criação de novas Apis usando Node.js, Nest.js, Docker, Express.js, Prisma e Typescript. Resolução de problemas Criação de documentação de Infraestrutura](Back End DeveloperBack End Developer Sumé Tecnologia · AutônomoSumé Tecnologia · Autônomo fev de 2024 - jul de 2024 · 6 mesesDe fev de 2024 até jul de 2024 · 6 meses Florianópolis, Santa Catarina, Brasil · RemotaFlorianópolis, Santa Catarina, Brasil · Remota me ajudou a conseguir esse empregoO LinkedIn me ajudou a conseguir esse emprego Documentação de Casos de Testes; Implementação de melhorias nas Apis; Criação de novas Apis usando Node.js, Nest.js, Docker, Express.js, Prisma e Typescript. Resolução de problemas Criação de documentação de Infraestrutura)
+- 📄 Know about my experiences [Back End Developer] [Sumé Tecnológica ] [Documentação de Casos de Testes; Implementação de melhorias nas Apis; Criação de novas Apis usando Node.js, Nest.js, Docker, Express.js, Prisma e Typescript. Resolução de problemas Criação de documentação de Infraestrutura])
 
 - ⚡ Fun fact **Is my secondary account, cause i lost my first one.**
 
