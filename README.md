@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Adami Rossato Rodrigues</h1>
 <h3 align="center">A passionate backend developer Node.js from Brasil</h3>
+<h3 align="center"> Formado em Análise de Desenvolvimento de Sistemas pela Faculdade Estacio - EAD , polo da Gloria </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeonardoAdami21](https://github.com/LeonardoAdami21)
 
